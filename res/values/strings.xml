@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Integation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="foursquare_client_id">A0IB1GASYE5XVUVQN513HU1ZQLH41ZUHDGGHZ4UG0NT4PGME</string>
+    <string name="foursquare_client_secret">VTFAPCGVFVLEGBXJCS4PQV53H1NWP1ULVHQOJV5BPHZGJGRH</string>
+    <string name="foursquare_authentication_callback_url">boothtag://authenticate.foursquare</string>
+    <string name="linkedin_api_key">2qzdhuyatb9r</string>
+    <string name="linkedin_api_secret">msLTnyhQOIWFm4vu</string>
+    <string name="linkedin_authentication_callback_url">boothtag://authenticate.linkedin</string>
+    <string name="twitter_api_key">ntqZYdy76o76MtcuUv72Q</string>
+    <string name="twitter_api_secret">UD2Vh72PoH27rB5Xj3UxFH9mqOgAo68m9np9RqRbFKs</string>
+    <string name="twitter_authentication_callback_url">boothtag://authenticate.twitter</string>
+</resources>
